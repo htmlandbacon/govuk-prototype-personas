@@ -1,0 +1,37 @@
+[
+	{
+        "slug": "kirestin",
+		"name": "Kirestin Hayden",
+		"phone": "0800 1111",
+		"date_of_birth": "9-28-1955",
+		"address": "475-6700 Elit Rd."
+	},
+	{
+        "slug": "paul",
+		"name": "Paul Mccall",
+		"phone": "0500 661336",
+		"date_of_birth": "10-10-1974",
+		"address": "P.O. Box 436, 1678 Egestas. Avenue"
+	},
+	{
+        "slug": "rigel",
+		"name": "Rigel Horton",
+		"phone": "0500 732371",
+		"date_of_birth": "2-29-1996",
+		"address": "Ap #837-4223 Lorem Avenue"
+	},
+	{
+        "slug": "mechelle",
+		"name": "Mechelle Potter",
+		"phone": "(0112) 836 4558",
+		"date_of_birth": "14-11-1971",
+		"address": "Ap #134-2083 Commodo Rd."
+	},
+	{
+        "slug": "ezra",
+		"name": "Ezra Vega",
+		"phone": "0500 707885",
+		"date_of_birth": "14-44-1991",
+		"address": "161-6377 Commodo St."
+	}
+]
