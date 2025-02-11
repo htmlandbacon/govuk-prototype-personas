@@ -17,7 +17,7 @@ npm install git@github.com:htmlandbacon/govuk-prototype-personas.git
 Then in a view you can either get a single citizen:
 
 ```twig
-{% set citizen = getCitizenBySlug("kirestin") %}
+{% set citizen = getCitizenBySlug("stan_wisozk") %}
 
 <p class="govuk-body">Hello {{ citizen.name }}.</p>
 ```

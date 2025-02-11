@@ -1,5 +1,5 @@
 {
-  "name": "@dwp/govuk-prototype-personas",
+  "name": "govuk-prototype-personas",
   "version": "0.1.0",
   "main": "index.js",
   "scripts": {
@@ -13,5 +13,5 @@
   "bugs": {
     "url": "https://github.com/htmlandbacon/govuk-prototype-personas/issues"
   },
-  "homepage": "https://github.com/htmlandbacon/govuk-prototype-personas#readme",
+  "homepage": "https://github.com/htmlandbacon/govuk-prototype-personas#readme"
 }

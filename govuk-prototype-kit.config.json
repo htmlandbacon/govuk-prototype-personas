@@ -1,5 +1,5 @@
 {
     "nunjucksFilters": [
-      "filters.js"
+      "/filters.js"
     ]
 }
